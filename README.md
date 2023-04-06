@@ -1,0 +1,1 @@
+# slug-search-plugin
